@@ -1,0 +1,1 @@
+[Processing](http://processing.org/) sketch that creates a city landscape in real-time based on MIDI input. Uses [themidibus](http://smallbutdigital.com/themidibus.php).
